@@ -2,9 +2,7 @@
 
 # 🍞 Hola, soy Mr. Toast 👋
 
-**Tech Curator | Digital Assets Enthusiast | Community Guide**
-
-*"Compartiendo los mejores bits del mundo digital, rebanada a rebanada."*
+**"Just a perfectly toasted slice in a world of raw bread."**
 
 <br>
 
@@ -17,8 +15,8 @@
 
 ---
 
-<!-- Sección de tu marca: Kubo -->
-<img src="path_to_your_logo/kubo_logo.png" width="100" alt="Kubo Logo">
+<!-- Tu Logo de Kubo en JPEG -->
+<img src="kubo.jpeg" width="100" alt="Kubo">
 
 ### Kubo
 > **Proyecto de divulgación técnica para todas las edades.**

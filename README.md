@@ -15,15 +15,6 @@
 
 ---
 
-<!-- Tu Logo de Kubo en JPEG -->
-<img src="kubo.jpeg" width="100" alt="Kubo">
-
-### Kubo
-> **Proyecto de divulgación técnica para todas las edades.**
-> *Desde el cuidado de fuentes de poder hasta la optimización de sistemas.*
-
----
-
 </div>
 
 ### Colecciones Destacadas
